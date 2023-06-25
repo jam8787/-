@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasoft1
+- 👋 Hi, I’m Jam
 - 👀 I’m interested in learning, maybe Python?
 
 <!---
